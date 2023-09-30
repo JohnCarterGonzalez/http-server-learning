@@ -9,3 +9,7 @@
     + tokio
     + hyper
     + tower, tower-http
+
++ TODO
+  - explain the workflow of the server
+  - explain the pros/cons of the approach
