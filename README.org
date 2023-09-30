@@ -1,0 +1,11 @@
+#+title: Readme
+* Simple HTTP Server made for Learning HTTP in Rust at a low-level
++ for learning purposes only, DO NOT use in production
++ if looking for web servers in Rust try:
+  - Warp
+  - Axum
+  - Actix-Web
+  - Build your own(?) via:
+    + tokio
+    + hyper
+    + tower, tower-http
